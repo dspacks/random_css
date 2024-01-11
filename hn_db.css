@@ -2,7 +2,7 @@ body {
   color: #f00;
 }
 
-.btnhover {
+.btn-toolbar {
   
   --offset: 10px;
   --border-size: 2px;
