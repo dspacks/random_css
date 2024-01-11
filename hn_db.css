@@ -3,6 +3,12 @@ body {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
+.labelrc, .labelmatrix {
+  font-family: cursive;
+  font-size: 13px;
+  font-weight: bold;
+}
+
 .btn-toolbar {
   
   --offset: 10px;
